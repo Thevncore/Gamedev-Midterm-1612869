@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7020c39aa8235e643a10b46651816729
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eurostile Extd
+  fontNames:
+  - Eurostile Extd
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 433ffd4526d4f204294de2c328227b6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
